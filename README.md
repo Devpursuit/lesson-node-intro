@@ -21,3 +21,13 @@ Before you can build awesome apps, you need the tools! Node.js lets you run Java
 
    ```js
    console.log("Hello from Node!");
+
+5. Run it with node hello.js.
+
+## 🎯 Success Criteria
+
+*  You can run node and npm commands.
+
+* You created and ran a JS file using Node.
+
+* You feel confident using the terminal!
