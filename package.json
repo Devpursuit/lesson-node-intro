@@ -1,0 +1,12 @@
+{
+  "name": "lesson-node-intro",
+  "version": "1.0.0",
+  "description": "Intro to Node.js - Gitpod lesson",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
